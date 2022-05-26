@@ -1,0 +1,22 @@
+{
+  "name": "cypress_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahbub091/cypress_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mahbub091/cypress_project/issues"
+  },
+  "homepage": "https://github.com/Mahbub091/cypress_project#readme",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
