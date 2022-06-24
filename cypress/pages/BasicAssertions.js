@@ -20,7 +20,7 @@ export default class BasicAssertions{
     }
 
     static elementVisible(element){
-        cy.get(element).should('be.visible')
+        cy.get(element).should('be.visible');
     }
 
 
